@@ -134,3 +134,11 @@ Comparison of Random Forest Regression’s predicted results and original test s
 ### Thanks for Your Attention
 
 ### project report on ResearchGate: https://shorturl.at/hBGOU
+
+
+## Connect and Collaborate
+
+Feel free to connect and collaborate on [LinkedIn](https://www.linkedin.com/in/mohamed-afkir-1bbb9729a)<br>
+or contact me via [email](mailto:mohamedafkir078@gmail.com)
+
+
